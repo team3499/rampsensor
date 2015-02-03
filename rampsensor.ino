@@ -11,7 +11,7 @@
 
 // The sensor threshold should be between the raw value returned
 // when above red/blue carpet  and white ramps.
-#define SENSOR_THRESHOLD 1000
+#define SENSOR_THRESHOLD 200
 
 QTRSensorsRC qtrrc;
 
